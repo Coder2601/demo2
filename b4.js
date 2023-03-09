@@ -1,7 +1,7 @@
-// var fname = 'Divya ';
-// var lname = 'Goyal'
-// var fullName = fname.concat(lname);
-// console.log(fullName);
+var fname = 'Divya ';
+var lname = 'Goyal'
+var fullName = fname.concat(lname);
+console.log(fullName);
 
 // var len = fname.length
 // console.log(len);
